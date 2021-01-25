@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Merriweather&display=swap');
+img{
+    height: 45vh;
+    margin-left: 31em;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#get{
+    margin-left: 3em;
+}
+body{
+    background-color: #99ff66;
+    color:#000;
+    font-family: 'Comfortaa', cursive;
+    
+}
+h1{
+    margin-left: 350px;
+}
+p{
+    margin-left: 180px;
+    font-family: fantasy;
+    font-size: 2em;
+    font-weight: bold;
+}
+h3{
+    margin-left: 100px;
+    font-weight: bold;
+}
+.table{
+    height: 40vh;
+}
+iframe{
+    margin-left: 5em;height: 70vh;
+    width: 75vw;
+}
+label{
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+#contact{
+    margin-left: 50px;
+}
+footer{
+    background-color: grey;height: 45vh;
+}
+.fo{
+    margin-left: 500px;
+    margin-top: 100px;
+    
+}
