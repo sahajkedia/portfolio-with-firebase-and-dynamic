@@ -1,3 +1,3 @@
 # portfolio-with-firebase-and-dynamic
 
-[Link to working project](https://www.sahajkediafenetlify.app)
+[Link to working project](https://www.sahajkediafe.netlify.app)
